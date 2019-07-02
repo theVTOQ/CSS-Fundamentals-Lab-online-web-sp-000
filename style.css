@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
-header {
+header, img, nav {
   margin: auto;
+}
+
+nav a {
+  padding: 10px;
 }
