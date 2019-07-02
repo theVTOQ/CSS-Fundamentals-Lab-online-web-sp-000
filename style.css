@@ -13,3 +13,9 @@ nav a {
   padding-right: 10px;
   background-color: red;
 }
+
+figcaption {
+  margin: auto;
+  font-size: 8px;
+
+}
